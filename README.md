@@ -49,7 +49,7 @@ The lending platform, when it receives an application for a loan, has to make a 
 - [Pandas official documentation](https://pandas.pydata.org/docs/)
 - [Seaborn official documentation](https://seaborn.pydata.org/)
 - [Numpy official documentation](https://numpy.org/doc/)
-- Project uses various EDA analysis
+- Project based on EDA analysis
     - [Exploratory data analysis python](https://www.digitalocean.com/community/tutorials/exploratory-data-analysis-python).
     - [EDA - Step by Step Process](https://towardsdatascience.com/exploratory-data-analysis-in-python-a-step-by-step-process-d0dfa6bf94ee)
     - [Guide to EDA using python](https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/)
