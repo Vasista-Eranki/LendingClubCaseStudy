@@ -56,4 +56,4 @@ The lending platform, when it receives an application for a loan, has to make a 
 
 ## Contact
 
-Created by [@Vasista-Eranki, @gautamsbh] - feel free to contact us!
+Created by [@Vasista-Eranki](https://github.com/Vasista-Eranki), [@gautamsbh](https://github.com/gautamsbh) - feel free to contact us!
