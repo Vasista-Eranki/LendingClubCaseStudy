@@ -21,10 +21,17 @@ The lending platform, when it receives an application for a loan, has to make a 
 
 ## Conclusions
 
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Avoid Term loans for the tenure of 60 months.
+- Avoid loans for small businesses with DTI > 11.50
+- Avoid loans for debt consolidation with DTI  > 14.75
+- Avoid loans which are not verified. Almost 44% of the loans are not verified. This could be a reason for the defaulters.
+- Avoid loans with DTI > 13.5 and issued during the months April-July & Oct-Dec.
+- Avoid loans issued for Home Ownership as MORTGAGE and DTI>14. 
+- Avoid loans with type Grade C & DTI>14.
+- Avoid loans with type Grade F with loan amount > 16K.
+- Avoid loans with type Grade G with loan amount < 18K.
+- Avoid loans when employment tenure is 7 years & annual income is [627K-938K].
+- Avoid loans with state NE as they have highest Defaulted rate of loans
 
 
 ## Technologies Used
